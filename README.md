@@ -5,3 +5,5 @@ druha zmena
 
 zmenaKBezKonfliktuVetev
 main
+
+zmena v SourceTree
